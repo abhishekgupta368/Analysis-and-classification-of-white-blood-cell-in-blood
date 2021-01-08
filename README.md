@@ -1,4 +1,4 @@
-# Analysis-and-classification-of-white-blood-cell-in-blood
+# Analysis and classification of white blood cell in blood
 Introduction:
 
 As we are moving ahead in the time, Virus is also getting stronger due to which it very difficult to make medicine and treat them on time.So I decided to work on white blood cell classification and detection in the
@@ -36,7 +36,7 @@ As we are in 2020 and facing one of the major viruses that are known by the name
 
     5. This results in huge loss of human body resources and makes our body vulnerable to other bacterial and parasitic infections.  
 
- So decide to make some intelligent agent which can help us to know about the status of the user%u2019s immune system by scanning white blood cell through image processing. Using my application, we can detect what type of cell White blood cell and also get to know about an important cell which may be missing from our blood. This application helps us to test and fast white blood cell detection and may reduce testing time. 
+ So decide to make some intelligent agent which can help us to know about the status of the users immune system by scanning white blood cell through image processing. Using my application, we can detect what type of cell White blood cell and also get to know about an important cell which may be missing from our blood. This application helps us to test and fast white blood cell detection and may reduce testing time. 
 
 # Results obtained:
 
